@@ -1,0 +1,12 @@
+html,
+body {
+    font-family: 'Comic Sans', sans-serif;
+}
+
+li a {
+    color: white;
+}
+
+body {
+    background: white url("images/background.gif") repeat;
+}
